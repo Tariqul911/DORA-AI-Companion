@@ -1,1 +1,1 @@
-# DORA – A soft-spoken AI-powered reminder and emotional productivity AI Assistant for iOS.
+# DORA – A Soft-Spoken AI Assistant for Emotional Productivity & Reminders
