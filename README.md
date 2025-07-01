@@ -31,4 +31,4 @@ Built to support students and professionals who need gentle nudges and emotional
 ---
 
 ## 👨‍💻 Author
-**Tariqul Islam** – Student Developer passionate about building soft, human-first tech.
+Tariqul Islam – Student iOS developer-in-progress with a product-driven mindset, building calm and emotionally intelligent apps for real-life impact.
